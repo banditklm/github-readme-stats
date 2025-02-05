@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  calm_green: {
+    title_color: "1c8139",
+    text_color: "1c8139",
+    icon_color: "95d8a6",
+    border_color: "95d8a6",
+    bg_color: "95d8a6",
+  },
 };
 
 export default themes;
